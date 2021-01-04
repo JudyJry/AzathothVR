@@ -15,7 +15,7 @@ public class userInfo : MonoBehaviour
     public Text collectText;
     public Text timeText;
     public float time;
-    private int limitTime = 10 * 60; //10min*60s
+    public int limitTime = 10 * 60; //10min*60s
 
     public GameObject rightHand;
     public GameObject leftHand;
