@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: aef5b74b91a2f464fb5f307c671773ee
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BedsideTable1
+    100004: BedsideTable2
+    100006: BedsideTable_Desktop
+    100008: BedsideTable_Drawer1
+    100010: BedsideTable_Drawer2
+    100012: BedsideTable_Drawer3
+    100014: BedsideTable_Handle
+    100016: BedsideTable_Handle1
+    100018: BedsideTable_Leg2
+    100020: BedsideTable_Leg3
+    100022: BedsideTable_Leg4
+    100024: BedsideTable_Leg5
+    100026: pasted__Wardrobe_Handle4
+    100028: pasted__Wardrobe_Handle4 1
+    100030: pasted__Wardrobe_Handle5
+    100032: pasted__Wardrobe_Handle5 1
+    400000: //RootNode
+    400002: BedsideTable1
+    400004: BedsideTable2
+    400006: BedsideTable_Desktop
+    400008: BedsideTable_Drawer1
+    400010: BedsideTable_Drawer2
+    400012: BedsideTable_Drawer3
+    400014: BedsideTable_Handle
+    400016: BedsideTable_Handle1
+    400018: BedsideTable_Leg2
+    400020: BedsideTable_Leg3
+    400022: BedsideTable_Leg4
+    400024: BedsideTable_Leg5
+    400026: pasted__Wardrobe_Handle4
+    400028: pasted__Wardrobe_Handle4 1
+    400030: pasted__Wardrobe_Handle5
+    400032: pasted__Wardrobe_Handle5 1
+    2100000: lambert1
+    2300000: BedsideTable1
+    2300002: BedsideTable2
+    2300004: BedsideTable_Desktop
+    2300006: BedsideTable_Drawer1
+    2300008: BedsideTable_Drawer2
+    2300010: BedsideTable_Leg2
+    2300012: BedsideTable_Leg3
+    2300014: BedsideTable_Leg4
+    2300016: BedsideTable_Leg5
+    2300018: pasted__Wardrobe_Handle4
+    2300020: pasted__Wardrobe_Handle4 1
+    2300022: pasted__Wardrobe_Handle5
+    2300024: pasted__Wardrobe_Handle5 1
+    3300000: BedsideTable1
+    3300002: BedsideTable2
+    3300004: BedsideTable_Desktop
+    3300006: BedsideTable_Drawer1
+    3300008: BedsideTable_Drawer2
+    3300010: BedsideTable_Leg2
+    3300012: BedsideTable_Leg3
+    3300014: BedsideTable_Leg4
+    3300016: BedsideTable_Leg5
+    3300018: pasted__Wardrobe_Handle4
+    3300020: pasted__Wardrobe_Handle4 1
+    3300022: pasted__Wardrobe_Handle5
+    3300024: pasted__Wardrobe_Handle5 1
+    4300000: BedsideTable_Desktop
+    4300002: BedsideTable1
+    4300004: BedsideTable2
+    4300006: BedsideTable_Drawer1
+    4300008: BedsideTable_Drawer2
+    4300010: BedsideTable_Leg2
+    4300012: BedsideTable_Leg3
+    4300014: BedsideTable_Leg4
+    4300016: BedsideTable_Leg5
+    4300018: pasted__Wardrobe_Handle4
+    4300020: pasted__Wardrobe_Handle5
+    4300022: pasted__Wardrobe_Handle4
+    4300024: pasted__Wardrobe_Handle5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
