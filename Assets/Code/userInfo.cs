@@ -22,6 +22,27 @@ public class userInfo : MonoBehaviour
     
     void Update()
     {
-        
+        if (treasureMap){
+            promptText.text = "已收集：";
+            if (bearHead){
+                promptText.text += " 頭 ";
+            }
+            if (bearRightHand){
+                promptText.text += " 右手 ";
+            }
+            if (bearLeftHand){
+                promptText.text += " 左手 ";
+            }
+            if (bearLeg){
+                promptText.text += " 腳 ";
+            }
+            if (bearBody){
+                promptText.text += " 身體 ";
+            }
+        }
+        else 
+        {
+            promptText.text = "";
+        }
     }
 }
