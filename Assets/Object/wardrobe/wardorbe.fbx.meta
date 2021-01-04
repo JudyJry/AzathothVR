@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 128723426414d7a4d9e2ea2a47ffcbd6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Wardrobe1
+    100004: Wardrobe1 1
+    100006: Wardrobe1_Handle
+    100008: Wardrobe2
+    100010: Wardrobe2 1
+    100012: Wardrobe2_Handle1
+    100014: Wardrobe2_Handle2
+    100016: transform1
+    100018: transform10
+    100020: transform11
+    100022: transform12
+    100024: transform13
+    100026: transform14
+    100028: transform15
+    100030: transform16
+    100032: transform17
+    100034: transform18
+    100036: transform2
+    100038: transform3
+    100040: transform4
+    100042: transform5
+    100044: transform6
+    100046: transform7
+    100048: transform8
+    100050: transform9
+    100052: Wardrob
+    100054: Wardrobe1 2
+    100056: Wardrobe11
+    100058: Wardrobe12
+    100060: Wardrobe13
+    100062: Wardrobe2 2
+    100064: Wardrobe3
+    100066: Wardrobe4
+    100068: Wardrobe5
+    100070: Wardrobe6
+    100072: Wardrobe7
+    100074: Wardrobe8
+    100076: Wardrobe9
+    100078: Wardrobe_Handle
+    100080: Wardrobe_Handle3
+    100082: Wardrobe_Handle4
+    100084: Wardrobe_Handle5
+    100086: Wardrobe_Handle6
+    100088: Wardrobe_Handle7
+    400000: //RootNode
+    400002: Wardrobe1
+    400004: Wardrobe1 1
+    400006: Wardrobe1_Handle
+    400008: Wardrobe2
+    400010: Wardrobe2 1
+    400012: Wardrobe2_Handle1
+    400014: Wardrobe2_Handle2
+    400016: transform1
+    400018: transform10
+    400020: transform11
+    400022: transform12
+    400024: transform13
+    400026: transform14
+    400028: transform15
+    400030: transform16
+    400032: transform17
+    400034: transform18
+    400036: transform2
+    400038: transform3
+    400040: transform4
+    400042: transform5
+    400044: transform6
+    400046: transform7
+    400048: transform8
+    400050: transform9
+    400052: Wardrob
+    400054: Wardrobe1 2
+    400056: Wardrobe11
+    400058: Wardrobe12
+    400060: Wardrobe13
+    400062: Wardrobe2 2
+    400064: Wardrobe3
+    400066: Wardrobe4
+    400068: Wardrobe5
+    400070: Wardrobe6
+    400072: Wardrobe7
+    400074: Wardrobe8
+    400076: Wardrobe9
+    400078: Wardrobe_Handle
+    400080: Wardrobe_Handle3
+    400082: Wardrobe_Handle4
+    400084: Wardrobe_Handle5
+    400086: Wardrobe_Handle6
+    400088: Wardrobe_Handle7
+    2100000: lambert1
+    2300000: Wardrobe1 1
+    2300002: Wardrobe1_Handle
+    2300004: Wardrobe2 1
+    2300006: Wardrobe2_Handle1
+    2300008: Wardrobe2_Handle2
+    2300010: Wardrobe1 2
+    2300012: Wardrobe2 2
+    3300000: Wardrobe1 1
+    3300002: Wardrobe1_Handle
+    3300004: Wardrobe2 1
+    3300006: Wardrobe2_Handle1
+    3300008: Wardrobe2_Handle2
+    3300010: Wardrobe1 2
+    3300012: Wardrobe2 2
+    4300000: Wardrobe1
+    4300002: Wardrobe1_Handle
+    4300004: Wardrobe2
+    4300006: Wardrobe2_Handle1
+    4300008: Wardrobe2_Handle2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
