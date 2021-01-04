@@ -13,6 +13,7 @@ public class userInfo : MonoBehaviour
     public bool treasureMap = false;
     public bool safeBox = false;
     public Text promptText;
+    public float time;
 
     void Start()
     {
@@ -22,6 +23,7 @@ public class userInfo : MonoBehaviour
     
     void Update()
     {
+        time+=Time.deltaTime;
         if (treasureMap){
             promptText.text = "已收集：";
             if (bearHead){
