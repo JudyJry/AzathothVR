@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 9a0c145b1b001184f99e8c486b98fba1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group1
+    100002: joint42
+    100004: joint42 1
+    100006: joint42 2
+    100008: joint42 3
+    100010: joint42 4
+    100012: joint42 5
+    100014: joint42 6
+    100016: joint42 7
+    100018: joint43
+    100020: joint43 1
+    100022: joint43 2
+    100024: joint43 3
+    100026: joint43 4
+    100028: joint43 5
+    100030: joint43 6
+    100032: joint43 7
+    100034: joint43_2
+    100036: joint43_2 1
+    100038: joint43_2 2
+    100040: joint43_2 3
+    100042: joint43_2 4
+    100044: joint43_2 5
+    100046: joint43_2 6
+    100048: joint43_2 7
+    100050: joint44
+    100052: joint44 1
+    100054: joint44 2
+    100056: joint44 3
+    100058: joint44 4
+    100060: joint44 5
+    100062: joint44 6
+    100064: joint44 7
+    100066: joint45
+    100068: joint45 1
+    100070: joint45 2
+    100072: joint45 3
+    100074: joint45 4
+    100076: joint45 5
+    100078: joint45 6
+    100080: joint45 7
+    100082: joint46
+    100084: joint46 1
+    100086: joint46 2
+    100088: joint46 3
+    100090: joint46 4
+    100092: joint46 5
+    100094: joint46 6
+    100096: joint46 7
+    100098: joint47
+    100100: joint47 1
+    100102: joint47 2
+    100104: joint47 3
+    100106: joint47 4
+    100108: joint47 5
+    100110: joint47 6
+    100112: joint47 7
+    100114: joint48
+    100116: joint48 1
+    100118: joint48 2
+    100120: joint48 3
+    100122: joint48 4
+    100124: joint48 5
+    100126: joint48 6
+    100128: joint48 7
+    100130: joint49
+    100132: joint49 1
+    100134: joint49 2
+    100136: joint49 3
+    100138: joint49 4
+    100140: joint49 5
+    100142: joint49 6
+    100144: joint49 7
+    100146: joint50
+    100148: joint50 1
+    100150: joint50 2
+    100152: joint50 3
+    100154: joint50 4
+    100156: joint50 5
+    100158: joint50 6
+    100160: joint50 7
+    100162: joint51
+    100164: joint51 1
+    100166: joint51 2
+    100168: joint51 3
+    100170: joint51 4
+    100172: joint51 5
+    100174: joint51 6
+    100176: joint51 7
+    100178: joint52
+    100180: joint52 1
+    100182: joint52 2
+    100184: joint52 3
+    100186: joint52 4
+    100188: joint52 5
+    100190: joint52 6
+    100192: joint52 7
+    100194: joint53
+    100196: joint53 1
+    100198: joint53 2
+    100200: joint53 3
+    100202: joint53 4
+    100204: joint53 5
+    100206: joint53 6
+    100208: joint53 7
+    100210: joint54
+    100212: joint54 1
+    100214: joint54 2
+    100216: joint54 3
+    100218: joint54 4
+    100220: joint54 5
+    100222: joint54 6
+    100224: joint54 7
+    100226: joint55
+    100228: joint55 1
+    100230: joint55 2
+    100232: joint55 3
+    100234: joint55 4
+    100236: joint55 5
+    100238: joint55 6
+    100240: joint55 7
+    100242: joint56
+    100244: joint56 1
+    100246: joint56 2
+    100248: joint56 3
+    100250: joint56 4
+    100252: joint56 5
+    100254: joint56 6
+    100256: joint56 7
+    100258: joint57
+    100260: joint57 1
+    100262: joint57 2
+    100264: joint57 3
+    100266: joint57 4
+    100268: joint57 5
+    100270: joint57 6
+    100272: joint57 7
+    100274: joint58
+    100276: joint58 1
+    100278: joint58 2
+    100280: joint58 3
+    100282: joint58 4
+    100284: joint58 5
+    100286: joint58 6
+    100288: joint58 7
+    100290: joint59
+    100292: joint59 1
+    100294: joint59 2
+    100296: joint59 3
+    100298: joint59 4
+    100300: joint59 5
+    100302: joint59 6
+    100304: joint59 7
+    100306: joint60
+    100308: joint60 1
+    100310: joint60 2
+    100312: joint60 3
+    100314: joint60 4
+    100316: joint60 5
+    100318: joint60 6
+    100320: joint60 7
+    100322: joint61
+    100324: joint61 1
+    100326: joint61 2
+    100328: joint61 3
+    100330: joint61 4
+    100332: joint61 5
+    100334: joint61 6
+    100336: joint61 7
+    100338: joint62
+    100340: joint62 1
+    100342: joint62 2
+    100344: joint62 3
+    100346: joint62 4
+    100348: joint62 5
+    100350: joint62 6
+    100352: joint62 7
+    100354: joint63
+    100356: joint63 1
+    100358: joint63 2
+    100360: joint63 3
+    100362: joint63 4
+    100364: joint63 5
+    100366: joint63 6
+    100368: joint63 7
+    100370: joint64
+    100372: joint64 1
+    100374: joint64 2
+    100376: joint64 3
+    100378: joint64 4
+    100380: joint64 5
+    100382: joint64 6
+    100384: joint64 7
+    100386: joint65
+    100388: joint65 1
+    100390: joint65 2
+    100392: joint65 3
+    100394: joint65 4
+    100396: joint65 5
+    100398: joint65 6
+    100400: joint65 7
+    100402: pCylinder7
+    100404: pCylinder7 1
+    100406: pCylinder7 2
+    100408: pCylinder7 3
+    100410: pCylinder7 4
+    100412: pCylinder7 5
+    100414: pCylinder7 6
+    100416: pCylinder7 7
+    100418: pCylinder8
+    100420: polySurface1
+    100422: polySurface10
+    100424: polySurface2
+    100426: polySurface3
+    100428: polySurface4
+    100430: polySurface5
+    100432: polySurface6
+    100434: polySurface7
+    100436: polySurface8
+    100438: polySurface9
+    100440: //RootNode
+    100442: Strongbox_Foot10_group1
+    100444: Strongbox_Foot10_group2
+    100446: Strongbox_Foot10_group3
+    100448: Strongbox_Foot10_group4
+    100450: Strongbox_Foot9_group1
+    100452: Strongbox_Foot9_group2
+    100454: Strongbox_Foot9_group3
+    400000: group1
+    400002: joint42
+    400004: joint42 1
+    400006: joint42 2
+    400008: joint42 3
+    400010: joint42 4
+    400012: joint42 5
+    400014: joint42 6
+    400016: joint42 7
+    400018: joint43
+    400020: joint43 1
+    400022: joint43 2
+    400024: joint43 3
+    400026: joint43 4
+    400028: joint43 5
+    400030: joint43 6
+    400032: joint43 7
+    400034: joint43_2
+    400036: joint43_2 1
+    400038: joint43_2 2
+    400040: joint43_2 3
+    400042: joint43_2 4
+    400044: joint43_2 5
+    400046: joint43_2 6
+    400048: joint43_2 7
+    400050: joint44
+    400052: joint44 1
+    400054: joint44 2
+    400056: joint44 3
+    400058: joint44 4
+    400060: joint44 5
+    400062: joint44 6
+    400064: joint44 7
+    400066: joint45
+    400068: joint45 1
+    400070: joint45 2
+    400072: joint45 3
+    400074: joint45 4
+    400076: joint45 5
+    400078: joint45 6
+    400080: joint45 7
+    400082: joint46
+    400084: joint46 1
+    400086: joint46 2
+    400088: joint46 3
+    400090: joint46 4
+    400092: joint46 5
+    400094: joint46 6
+    400096: joint46 7
+    400098: joint47
+    400100: joint47 1
+    400102: joint47 2
+    400104: joint47 3
+    400106: joint47 4
+    400108: joint47 5
+    400110: joint47 6
+    400112: joint47 7
+    400114: joint48
+    400116: joint48 1
+    400118: joint48 2
+    400120: joint48 3
+    400122: joint48 4
+    400124: joint48 5
+    400126: joint48 6
+    400128: joint48 7
+    400130: joint49
+    400132: joint49 1
+    400134: joint49 2
+    400136: joint49 3
+    400138: joint49 4
+    400140: joint49 5
+    400142: joint49 6
+    400144: joint49 7
+    400146: joint50
+    400148: joint50 1
+    400150: joint50 2
+    400152: joint50 3
+    400154: joint50 4
+    400156: joint50 5
+    400158: joint50 6
+    400160: joint50 7
+    400162: joint51
+    400164: joint51 1
+    400166: joint51 2
+    400168: joint51 3
+    400170: joint51 4
+    400172: joint51 5
+    400174: joint51 6
+    400176: joint51 7
+    400178: joint52
+    400180: joint52 1
+    400182: joint52 2
+    400184: joint52 3
+    400186: joint52 4
+    400188: joint52 5
+    400190: joint52 6
+    400192: joint52 7
+    400194: joint53
+    400196: joint53 1
+    400198: joint53 2
+    400200: joint53 3
+    400202: joint53 4
+    400204: joint53 5
+    400206: joint53 6
+    400208: joint53 7
+    400210: joint54
+    400212: joint54 1
+    400214: joint54 2
+    400216: joint54 3
+    400218: joint54 4
+    400220: joint54 5
+    400222: joint54 6
+    400224: joint54 7
+    400226: joint55
+    400228: joint55 1
+    400230: joint55 2
+    400232: joint55 3
+    400234: joint55 4
+    400236: joint55 5
+    400238: joint55 6
+    400240: joint55 7
+    400242: joint56
+    400244: joint56 1
+    400246: joint56 2
+    400248: joint56 3
+    400250: joint56 4
+    400252: joint56 5
+    400254: joint56 6
+    400256: joint56 7
+    400258: joint57
+    400260: joint57 1
+    400262: joint57 2
+    400264: joint57 3
+    400266: joint57 4
+    400268: joint57 5
+    400270: joint57 6
+    400272: joint57 7
+    400274: joint58
+    400276: joint58 1
+    400278: joint58 2
+    400280: joint58 3
+    400282: joint58 4
+    400284: joint58 5
+    400286: joint58 6
+    400288: joint58 7
+    400290: joint59
+    400292: joint59 1
+    400294: joint59 2
+    400296: joint59 3
+    400298: joint59 4
+    400300: joint59 5
+    400302: joint59 6
+    400304: joint59 7
+    400306: joint60
+    400308: joint60 1
+    400310: joint60 2
+    400312: joint60 3
+    400314: joint60 4
+    400316: joint60 5
+    400318: joint60 6
+    400320: joint60 7
+    400322: joint61
+    400324: joint61 1
+    400326: joint61 2
+    400328: joint61 3
+    400330: joint61 4
+    400332: joint61 5
+    400334: joint61 6
+    400336: joint61 7
+    400338: joint62
+    400340: joint62 1
+    400342: joint62 2
+    400344: joint62 3
+    400346: joint62 4
+    400348: joint62 5
+    400350: joint62 6
+    400352: joint62 7
+    400354: joint63
+    400356: joint63 1
+    400358: joint63 2
+    400360: joint63 3
+    400362: joint63 4
+    400364: joint63 5
+    400366: joint63 6
+    400368: joint63 7
+    400370: joint64
+    400372: joint64 1
+    400374: joint64 2
+    400376: joint64 3
+    400378: joint64 4
+    400380: joint64 5
+    400382: joint64 6
+    400384: joint64 7
+    400386: joint65
+    400388: joint65 1
+    400390: joint65 2
+    400392: joint65 3
+    400394: joint65 4
+    400396: joint65 5
+    400398: joint65 6
+    400400: joint65 7
+    400402: pCylinder7
+    400404: pCylinder7 1
+    400406: pCylinder7 2
+    400408: pCylinder7 3
+    400410: pCylinder7 4
+    400412: pCylinder7 5
+    400414: pCylinder7 6
+    400416: pCylinder7 7
+    400418: pCylinder8
+    400420: polySurface1
+    400422: polySurface10
+    400424: polySurface2
+    400426: polySurface3
+    400428: polySurface4
+    400430: polySurface5
+    400432: polySurface6
+    400434: polySurface7
+    400436: polySurface8
+    400438: polySurface9
+    400440: //RootNode
+    400442: Strongbox_Foot10_group1
+    400444: Strongbox_Foot10_group2
+    400446: Strongbox_Foot10_group3
+    400448: Strongbox_Foot10_group4
+    400450: Strongbox_Foot9_group1
+    400452: Strongbox_Foot9_group2
+    400454: Strongbox_Foot9_group3
+    2100000: lambert1
+    2300000: polySurface1
+    2300002: polySurface10
+    2300004: polySurface2
+    2300006: polySurface3
+    2300008: polySurface4
+    2300010: polySurface5
+    2300012: polySurface6
+    2300014: polySurface7
+    2300016: polySurface8
+    2300018: polySurface9
+    3300000: polySurface1
+    3300002: polySurface10
+    3300004: polySurface2
+    3300006: polySurface3
+    3300008: polySurface4
+    3300010: polySurface5
+    3300012: polySurface6
+    3300014: polySurface7
+    3300016: polySurface8
+    3300018: polySurface9
+    4300000: polySurface1
+    4300002: polySurface2
+    4300004: polySurface3
+    4300006: polySurface4
+    4300008: polySurface5
+    4300010: polySurface6
+    4300012: polySurface7
+    4300014: polySurface8
+    4300016: polySurface9
+    4300018: polySurface10
+    4300020: pCylinder7
+    4300022: pCylinder7
+    4300024: pCylinder7
+    4300026: pCylinder7
+    4300028: pCylinder7
+    4300030: pCylinder7
+    4300032: pCylinder7
+    4300034: pCylinder7
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCylinder7
+    13700002: pCylinder7 1
+    13700004: pCylinder7 2
+    13700006: pCylinder7 3
+    13700008: pCylinder7 4
+    13700010: pCylinder7 5
+    13700012: pCylinder7 6
+    13700014: pCylinder7 7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
