@@ -9,6 +9,8 @@ TagManager:
   - Window
   - Frame
   - Vision
+  - SafeBox
+  - Body
   layers:
   - Default
   - TransparentFX
