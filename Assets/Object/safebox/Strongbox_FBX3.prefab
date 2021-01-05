@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 2100814462}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0.15, z: 0.037}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 79243020200003396}
   m_RootOrder: 9
@@ -4907,6 +4907,8 @@ GameObject:
   - component: {fileID: 4494384619295394243}
   - component: {fileID: 2243229623224939390}
   - component: {fileID: 5756405550245138545}
+  - component: {fileID: 7071489609406240993}
+  - component: {fileID: 1823236551233187729}
   m_Layer: 0
   m_Name: Strongbox_FBX3
   m_TagString: SafeBox
@@ -5156,6 +5158,38 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   deadUi: {fileID: 0}
   pp: {fileID: 2100814462}
+--- !u!114 &7071489609406240993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 79243020200104740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553c44348f708aa40900af7df73a4aef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 2010853021107742047, guid: 1cee05619a6a8bf468aa55e3cfc3134e, type: 3}
+  smoothTime: 0.5
+  targetPosition: {x: 0, y: 0, z: 0}
+  Box: {fileID: 79243020200104740}
+--- !u!114 &1823236551233187729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 79243020200104740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e9abb372d0718746a699eed88a99b96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Box: {fileID: 79243020200104740}
+  isOpen: 1
+  speed: 2
+  RamVar: 0
 --- !u!1 &79243020200104742
 GameObject:
   m_ObjectHideFlags: 0

@@ -10,12 +10,13 @@ public class userInfo : MonoBehaviour
     public bool bearLeftHand = false;
     public bool bearLeg = false;
     public bool bearBody = false;
-    public bool treasureMap = false;
+    public bool treasureMap = true;
     public bool safeBox = false;
     public Text collectText;
     public Text timeText;
     public float time;
     public int limitTime = 10 * 60; //10min*60s
+    public GameObject clear;
 
     public GameObject rightHand;
     public GameObject leftHand;
@@ -62,6 +63,11 @@ public class userInfo : MonoBehaviour
         else
         {
             collectText.text = "";
+        }
+
+        if (bearBody && bearHead && bearRightHand && bearLeftHand && bearLeg) {
+            clear.SetActive(true);
+            time = 0;
         }
     }
 
